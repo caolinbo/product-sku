@@ -1,4 +1,4 @@
-# sku
+# product-sku
 
 > 商品属性和sku列表的联动
 
