@@ -6,7 +6,10 @@
 
 ```
 代码链接:  [点此查看](https://caolinbo.github.io/product-sku/#/)
+
+[敲代码，学编程](https://zhuanlan.zhihu.com/learncoding)
 ```
+[敲代码，学编程](https://zhuanlan.zhihu.com/learncoding)
 
 ## Build Setup
 
