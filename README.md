@@ -5,7 +5,6 @@
 记一次在工作中花了一天时间利用笛卡尔积算法实现的商品属性和商品sku列表之间的联动
 
 代码链接:  [点此查看](https://caolinbo.github.io/product-sku/#/)
-<a href="https://caolinbo.github.io/product-sku/#/" target="_blank">点此查看代码</a>
 
 ## Build Setup
 
